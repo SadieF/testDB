@@ -1,0 +1,24 @@
+{
+  "name": "testdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lookup_people.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadieF/testDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadieF/testDB/issues"
+  },
+  "homepage": "https://github.com/SadieF/testDB#readme",
+  "dependencies": {
+    "moment": "^2.22.0",
+    "pg": "^7.4.1"
+  }
+}
